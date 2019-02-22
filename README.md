@@ -1,2 +1,2 @@
-# learning_git
-repo to learn git
+# portfolio
+repo to host portfolio piece 1
