@@ -61,10 +61,10 @@ function preload() {
   soundFormats('mp3', 'ogg', 'wav');
   music = loadSound('assets/audio/Snack_Time.mp3');
   seedSound = loadSound('assets/audio/seed.mp3');
-  audRain = loadSound('assets/audio/rain.wav');
-  thunder = loadSound('assets/audio/thunder.wav');
-  audMunch = loadSound('assets/audio/munch.wav');
-  audSpit = loadSound('assets/audio/spitsound.wav');
+  audRain = loadSound('assets/audio/rain.mp3');
+  thunder = loadSound('assets/audio/thunder.mp3');
+  audMunch = loadSound('assets/audio/munch.mp3');
+  audSpit = loadSound('assets/audio/spitsound.mp3');
 }
 
 function setup() {
